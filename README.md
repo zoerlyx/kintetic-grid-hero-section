@@ -13,8 +13,7 @@ The background grid reacts to the user's cursor position, producing a subtle dis
 ## ✨ Features
 
 - 🌀 **Kinetic Grid Background** — Interactive grid that responds to cursor movement
-- 🖱️ **Cursor Interaction** — Grid movement dynamically follows the user's pointer 
-- 🎯 **Minimal Composition** — Focused hero layout with heading and supporting tagline
+- 🖱️ **Cursor Interaction** — Grid movement dynamically follows the user's pointer  
 - 📱 **Responsive Design** — Adapts across different screen sizes
 - ⚡ **Vite-powered** — Fast development and build tooling
 - 🎨 **Tailwind CSS** — Utility-first styling

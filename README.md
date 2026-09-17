@@ -1,8 +1,6 @@
 # Kinetic Grid Hero
 
-An interactive landing page hero section featuring a **kinetic grid background** that dynamically responds to cursor movement.
-
-The design combines bold typography, minimal composition, and subtle motion to create a modern and immersive hero experience.
+An interactive landing page hero section featuring a **kinetic grid background** that dynamically responds to cursor movement. 
 
 ## ✨ Overview
 
